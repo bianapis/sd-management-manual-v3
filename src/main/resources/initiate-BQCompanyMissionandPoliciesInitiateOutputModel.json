@@ -1,0 +1,15 @@
+{
+  "companyMissionandPolicies" : "companyMissionandPolicies",
+  "companyMissionandPoliciesSpecificationSchedule" : "companyMissionandPoliciesSpecificationSchedule",
+  "companyMissionandPoliciesInitiateActionReference" : "CMAPIAR790661",
+  "companyMissionandPoliciesInstanceReference" : "CMAPIR777579",
+  "companyMissionandPoliciesServiceWorkProduct" : "companyMissionandPoliciesServiceWorkProduct",
+  "companyMissionandPoliciesServiceName" : "companyMissionandPoliciesServiceName",
+  "companyMissionandPoliciesPreconditions" : "companyMissionandPoliciesPreconditions",
+  "companyMissionandPoliciesServiceType" : "companyMissionandPoliciesServiceType",
+  "companyMissionandPoliciesServiceInputsandOuputs" : "companyMissionandPoliciesServiceInputsandOuputs",
+  "companyMissionandPoliciesInstanceStatus" : "companyMissionandPoliciesInstanceStatus",
+  "companyMissionandPoliciesInitiateActionRecord" : {},
+  "companyMissionandPoliciesServiceDescription" : "companyMissionandPoliciesServiceDescription",
+  "companyMissionandPoliciesVersionNumber" : "companyMissionandPoliciesVersionNumber"
+}

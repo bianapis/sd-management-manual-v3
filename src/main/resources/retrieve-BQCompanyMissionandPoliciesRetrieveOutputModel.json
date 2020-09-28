@@ -1,0 +1,26 @@
+{
+  "companyMissionandPoliciesInstanceReport" : {
+    "companyMissionandPoliciesInstanceReportParameters" : "companyMissionandPoliciesInstanceReportParameters",
+    "companyMissionandPoliciesInstanceReport" : {},
+    "companyMissionandPoliciesInstanceReportRecord" : {},
+    "companyMissionandPoliciesInstanceReportType" : "companyMissionandPoliciesInstanceReportType"
+  },
+  "companyMissionandPoliciesRetrieveActionTaskReference" : "CMAPRATR743214",
+  "companyMissionandPolicies" : "companyMissionandPolicies",
+  "companyMissionandPoliciesRetrieveActionResponse" : "companyMissionandPoliciesRetrieveActionResponse",
+  "companyMissionandPoliciesSpecificationSchedule" : "companyMissionandPoliciesSpecificationSchedule",
+  "companyMissionandPoliciesServiceWorkProduct" : "companyMissionandPoliciesServiceWorkProduct",
+  "companyMissionandPoliciesServiceName" : "companyMissionandPoliciesServiceName",
+  "companyMissionandPoliciesPreconditions" : "companyMissionandPoliciesPreconditions",
+  "companyMissionandPoliciesServiceType" : "companyMissionandPoliciesServiceType",
+  "companyMissionandPoliciesServiceInputsandOuputs" : "companyMissionandPoliciesServiceInputsandOuputs",
+  "companyMissionandPoliciesServiceDescription" : "companyMissionandPoliciesServiceDescription",
+  "companyMissionandPoliciesRetrieveActionTaskRecord" : {},
+  "companyMissionandPoliciesInstanceAnalysis" : {
+    "companyMissionandPoliciesInstanceAnalysisRecord" : {},
+    "companyMissionandPoliciesInstanceAnalysisReport" : {},
+    "companyMissionandPoliciesInstanceAnalysisReportType" : "companyMissionandPoliciesInstanceAnalysisReportType",
+    "companyMissionandPoliciesInstanceAnalysisParameters" : "companyMissionandPoliciesInstanceAnalysisParameters"
+  },
+  "companyMissionandPoliciesVersionNumber" : "companyMissionandPoliciesVersionNumber"
+}

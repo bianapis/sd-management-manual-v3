@@ -1,0 +1,11 @@
+{
+  "managementManualSpecificationParameterType" : "managementManualSpecificationParameterType",
+  "managementManualSpecificationVersion" : "managementManualSpecificationVersion",
+  "managementManualSpecificationExchangeActionResponse" : "managementManualSpecificationExchangeActionResponse",
+  "managementManualSpecificationSelectedOption" : "managementManualSpecificationSelectedOption",
+  "managementManualSpecificationUsageLog" : "managementManualSpecificationUsageLog",
+  "managementManualSpecificationStatus" : "managementManualSpecificationStatus",
+  "managementManualSpecificationExchangeActionTaskRecord" : {},
+  "managementManualSpecificationFeedback" : "managementManualSpecificationFeedback",
+  "managementManualSpecificationExchangeActionTaskReference" : "MMSEATR755030"
+}

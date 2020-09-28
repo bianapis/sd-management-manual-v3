@@ -1,0 +1,26 @@
+{
+  "staffManagementProceduresandGuidelinesServiceInputsandOuputs" : "staffManagementProceduresandGuidelinesServiceInputsandOuputs",
+  "staffManagementProceduresandGuidelinesServiceName" : "staffManagementProceduresandGuidelinesServiceName",
+  "staffManagementProceduresandGuidelinesRetrieveActionResponse" : "staffManagementProceduresandGuidelinesRetrieveActionResponse",
+  "staffManagementProceduresandGuidelinesInstanceReport" : {
+    "staffManagementProceduresandGuidelinesInstanceReportType" : "staffManagementProceduresandGuidelinesInstanceReportType",
+    "staffManagementProceduresandGuidelinesInstanceReport" : {},
+    "staffManagementProceduresandGuidelinesInstanceReportRecord" : {},
+    "staffManagementProceduresandGuidelinesInstanceReportParameters" : "staffManagementProceduresandGuidelinesInstanceReportParameters"
+  },
+  "staffManagementProceduresandGuidelinesRetrieveActionTaskRecord" : {},
+  "staffManagementProceduresandGuidelinesServiceDescription" : "staffManagementProceduresandGuidelinesServiceDescription",
+  "staffManagementProceduresandGuidelinesPreconditions" : "staffManagementProceduresandGuidelinesPreconditions",
+  "staffManagementProceduresandGuidelines" : "staffManagementProceduresandGuidelines",
+  "staffManagementProceduresandGuidelinesInstanceAnalysis" : {
+    "staffManagementProceduresandGuidelinesInstanceAnalysisReportType" : "staffManagementProceduresandGuidelinesInstanceAnalysisReportType",
+    "staffManagementProceduresandGuidelinesInstanceAnalysisReport" : {},
+    "staffManagementProceduresandGuidelinesInstanceAnalysisParameters" : "staffManagementProceduresandGuidelinesInstanceAnalysisParameters",
+    "staffManagementProceduresandGuidelinesInstanceAnalysisRecord" : {}
+  },
+  "staffManagementProceduresandGuidelinesVersionNumber" : "staffManagementProceduresandGuidelinesVersionNumber",
+  "staffManagementProceduresandGuidelinesSpecificationSchedule" : "staffManagementProceduresandGuidelinesSpecificationSchedule",
+  "staffManagementProceduresandGuidelinesServiceType" : "staffManagementProceduresandGuidelinesServiceType",
+  "staffManagementProceduresandGuidelinesRetrieveActionTaskReference" : "SMPAGRATR783700",
+  "staffManagementProceduresandGuidelinesServiceWorkProduct" : "staffManagementProceduresandGuidelinesServiceWorkProduct"
+}

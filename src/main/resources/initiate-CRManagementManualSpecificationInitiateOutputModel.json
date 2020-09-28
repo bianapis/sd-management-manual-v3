@@ -1,0 +1,12 @@
+{
+  "managementManualSpecificationInstanceStatus" : "managementManualSpecificationInstanceStatus",
+  "managementManualSpecificationParameterType" : "managementManualSpecificationParameterType",
+  "managementManualSpecificationVersion" : "managementManualSpecificationVersion",
+  "managementManualSpecificationInitiateActionRecord" : {},
+  "managementManualSpecificationInitiateActionReference" : "MMSIAR741363",
+  "managementManualSpecificationSelectedOption" : "managementManualSpecificationSelectedOption",
+  "managementManualSpecificationUsageLog" : "managementManualSpecificationUsageLog",
+  "managementManualSpecificationInstanceReference" : "MMSIR738200",
+  "managementManualSpecificationStatus" : "managementManualSpecificationStatus",
+  "managementManualSpecificationFeedback" : "managementManualSpecificationFeedback"
+}

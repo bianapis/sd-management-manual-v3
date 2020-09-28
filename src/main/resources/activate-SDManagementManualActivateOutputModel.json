@@ -1,0 +1,24 @@
+{
+  "managementManualActivationActionTaskReference" : "SAATR758836",
+  "managementManualServicingSessionStatus" : "managementManualServicingSessionStatus",
+  "managementManualServicingSessionReference" : "SSSR783215",
+  "managementManualActivationActionTaskRecord" : {},
+  "managementManualServicingSessionRecord" : {},
+  "managementManualServiceConfigurationRecord" : {
+    "managementManualServiceSubscription" : {
+      "managementManualServiceSubscriberReference" : "769192",
+      "managementManualServiceSubscriberAccessProfile" : "managementManualServiceSubscriberAccessProfile"
+    },
+    "managementManualServiceConfigurationSettingReference" : "700761",
+    "managementManualServiceAgreement" : {
+      "managementManualServiceAgreementReference" : "791202",
+      "managementManualServiceAgreementTermsandConditions" : "managementManualServiceAgreementTermsandConditions",
+      "managementManualServiceUserReference" : "767210"
+    },
+    "managementManualServiceConfigurationSettingDescription" : "managementManualServiceConfigurationSettingDescription",
+    "managementManualServiceStatus" : "managementManualServiceStatus",
+    "managementManualServiceConfigurationSetup" : {
+      "managementManualServiceConfigurationParameter" : "managementManualServiceConfigurationParameter"
+    }
+  }
+}

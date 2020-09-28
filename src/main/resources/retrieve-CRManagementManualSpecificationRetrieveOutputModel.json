@@ -1,0 +1,23 @@
+{
+  "managementManualSpecificationDescription" : "managementManualSpecificationDescription",
+  "managementManualSpecificationRetrieveActionTaskRecord" : {},
+  "managementManualSpecificationInstanceReportRecord" : {
+    "managementManualSpecificationInstanceReportData" : "managementManualSpecificationInstanceReportData",
+    "managementManualSpecificationInstanceReport" : {},
+    "managementManualSpecificationInstanceReportType" : "managementManualSpecificationInstanceReportType"
+  },
+  "managementManualSpecificationServiceProviderReference" : "MMSSR723037",
+  "managementManualSpecificationUsageLog" : "managementManualSpecificationUsageLog",
+  "managementManualSpecificationFeedback" : "managementManualSpecificationFeedback",
+  "managementManualSpecificationParameterType" : "managementManualSpecificationParameterType",
+  "managementManualSpecificationVersion" : "managementManualSpecificationVersion",
+  "managementManualSpecificationInstanceAnalysis" : {
+    "managementManualSpecificationInstanceAnalysisReport" : {},
+    "managementManualSpecificationInstanceAnalysisData" : "managementManualSpecificationInstanceAnalysisData",
+    "managementManualSpecificationInstanceAnalysisReportType" : "managementManualSpecificationInstanceAnalysisReportType"
+  },
+  "managementManualSpecificationRetrieveActionResponse" : "managementManualSpecificationRetrieveActionResponse",
+  "managementManualSpecificationSelectedOption" : "managementManualSpecificationSelectedOption",
+  "managementManualSpecificationRetrieveActionTaskReference" : "MMSRATR751720",
+  "managementManualSpecificationStatus" : "managementManualSpecificationStatus"
+}

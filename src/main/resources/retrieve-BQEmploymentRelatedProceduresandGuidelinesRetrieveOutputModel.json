@@ -1,0 +1,26 @@
+{
+  "employmentRelatedProceduresandGuidelinesServiceDescription" : "employmentRelatedProceduresandGuidelinesServiceDescription",
+  "employmentRelatedProceduresandGuidelinesServiceInputsandOuputs" : "employmentRelatedProceduresandGuidelinesServiceInputsandOuputs",
+  "employmentRelatedProceduresandGuidelinesVersionNumber" : "employmentRelatedProceduresandGuidelinesVersionNumber",
+  "employmentRelatedProceduresandGuidelinesRetrieveActionResponse" : "employmentRelatedProceduresandGuidelinesRetrieveActionResponse",
+  "employmentRelatedProceduresandGuidelinesInstanceReport" : {
+    "employmentRelatedProceduresandGuidelinesInstanceReportParameters" : "employmentRelatedProceduresandGuidelinesInstanceReportParameters",
+    "employmentRelatedProceduresandGuidelinesInstanceReport" : {},
+    "employmentRelatedProceduresandGuidelinesInstanceReportRecord" : {},
+    "employmentRelatedProceduresandGuidelinesInstanceReportType" : "employmentRelatedProceduresandGuidelinesInstanceReportType"
+  },
+  "employmentRelatedProceduresandGuidelinesSpecificationSchedule" : "employmentRelatedProceduresandGuidelinesSpecificationSchedule",
+  "employmentRelatedProceduresandGuidelines" : "employmentRelatedProceduresandGuidelines",
+  "employmentRelatedProceduresandGuidelinesRetrieveActionTaskReference" : "ERPAGRATR747081",
+  "employmentRelatedProceduresandGuidelinesServiceWorkProduct" : "employmentRelatedProceduresandGuidelinesServiceWorkProduct",
+  "employmentRelatedProceduresandGuidelinesServiceType" : "employmentRelatedProceduresandGuidelinesServiceType",
+  "employmentRelatedProceduresandGuidelinesServiceName" : "employmentRelatedProceduresandGuidelinesServiceName",
+  "employmentRelatedProceduresandGuidelinesInstanceAnalysis" : {
+    "employmentRelatedProceduresandGuidelinesInstanceAnalysisParameters" : "employmentRelatedProceduresandGuidelinesInstanceAnalysisParameters",
+    "employmentRelatedProceduresandGuidelinesInstanceAnalysisRecord" : {},
+    "employmentRelatedProceduresandGuidelinesInstanceAnalysisReportType" : "employmentRelatedProceduresandGuidelinesInstanceAnalysisReportType",
+    "employmentRelatedProceduresandGuidelinesInstanceAnalysisReport" : {}
+  },
+  "employmentRelatedProceduresandGuidelinesPreconditions" : "employmentRelatedProceduresandGuidelinesPreconditions",
+  "employmentRelatedProceduresandGuidelinesRetrieveActionTaskRecord" : {}
+}

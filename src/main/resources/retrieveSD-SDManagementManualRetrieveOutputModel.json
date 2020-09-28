@@ -1,0 +1,39 @@
+{
+  "managementManualRetrieveActionTaskReference" : "SRATR795161",
+  "managementManualRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "managementManualPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "managementManualActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "managementManualRetrieveActionTaskRecord" : {},
+  "managementManualRetrieveActionResponse" : "managementManualRetrieveActionResponse",
+  "managementManualOfferedService" : {
+    "managementManualServiceRecord" : {
+      "managementManualServiceSchedule" : "managementManualServiceSchedule",
+      "managementManualServiceDescription" : "managementManualServiceDescription",
+      "managementManualServiceVersion" : "managementManualServiceVersion",
+      "managementManualServicePoliciesandGuidelines" : {
+        "managementManualServicePricingandTerms" : "managementManualServicePricingandTerms",
+        "managementManualServiceIntendedUses" : "managementManualServiceIntendedUses",
+        "managementManualServiceEligibility" : "managementManualServiceEligibility"
+      },
+      "managementManualServiceType" : "managementManualServiceType"
+    },
+    "managementManualServiceReference" : "776158"
+  }
+}

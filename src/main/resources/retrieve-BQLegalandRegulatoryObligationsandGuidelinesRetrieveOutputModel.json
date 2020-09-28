@@ -1,0 +1,26 @@
+{
+  "legalandRegulatoryObligationsandGuidelines" : "legalandRegulatoryObligationsandGuidelines",
+  "legalandRegulatoryObligationsandGuidelinesServiceDescription" : "legalandRegulatoryObligationsandGuidelinesServiceDescription",
+  "legalandRegulatoryObligationsandGuidelinesServiceName" : "legalandRegulatoryObligationsandGuidelinesServiceName",
+  "legalandRegulatoryObligationsandGuidelinesServiceInputsandOuputs" : "legalandRegulatoryObligationsandGuidelinesServiceInputsandOuputs",
+  "legalandRegulatoryObligationsandGuidelinesRetrieveActionResponse" : "legalandRegulatoryObligationsandGuidelinesRetrieveActionResponse",
+  "legalandRegulatoryObligationsandGuidelinesSpecificationSchedule" : "legalandRegulatoryObligationsandGuidelinesSpecificationSchedule",
+  "legalandRegulatoryObligationsandGuidelinesInstanceAnalysis" : {
+    "legalandRegulatoryObligationsandGuidelinesInstanceAnalysisRecord" : {},
+    "legalandRegulatoryObligationsandGuidelinesInstanceAnalysisReportType" : "legalandRegulatoryObligationsandGuidelinesInstanceAnalysisReportType",
+    "legalandRegulatoryObligationsandGuidelinesInstanceAnalysisParameters" : "legalandRegulatoryObligationsandGuidelinesInstanceAnalysisParameters",
+    "legalandRegulatoryObligationsandGuidelinesInstanceAnalysisReport" : {}
+  },
+  "legalandRegulatoryObligationsandGuidelinesInstanceReport" : {
+    "legalandRegulatoryObligationsandGuidelinesInstanceReportParameters" : "legalandRegulatoryObligationsandGuidelinesInstanceReportParameters",
+    "legalandRegulatoryObligationsandGuidelinesInstanceReportType" : "legalandRegulatoryObligationsandGuidelinesInstanceReportType",
+    "legalandRegulatoryObligationsandGuidelinesInstanceReport" : {},
+    "legalandRegulatoryObligationsandGuidelinesInstanceReportRecord" : {}
+  },
+  "legalandRegulatoryObligationsandGuidelinesVersionNumber" : "legalandRegulatoryObligationsandGuidelinesVersionNumber",
+  "legalandRegulatoryObligationsandGuidelinesRetrieveActionTaskReference" : "LAROAGRATR775693",
+  "legalandRegulatoryObligationsandGuidelinesServiceType" : "legalandRegulatoryObligationsandGuidelinesServiceType",
+  "legalandRegulatoryObligationsandGuidelinesPreconditions" : "legalandRegulatoryObligationsandGuidelinesPreconditions",
+  "legalandRegulatoryObligationsandGuidelinesServiceWorkProduct" : "legalandRegulatoryObligationsandGuidelinesServiceWorkProduct",
+  "legalandRegulatoryObligationsandGuidelinesRetrieveActionTaskRecord" : {}
+}

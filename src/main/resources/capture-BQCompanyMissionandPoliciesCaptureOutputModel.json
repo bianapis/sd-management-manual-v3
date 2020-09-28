@@ -1,0 +1,15 @@
+{
+  "companyMissionandPoliciesCaptureActionTaskRecord" : {},
+  "companyMissionandPoliciesCaptureActionTaskReference" : "CMAPCATR728383",
+  "companyMissionandPolicies" : "companyMissionandPolicies",
+  "companyMissionandPoliciesCaptureRecordReference" : "CMAPCRR738059",
+  "companyMissionandPoliciesSpecificationSchedule" : "companyMissionandPoliciesSpecificationSchedule",
+  "companyMissionandPoliciesServiceWorkProduct" : "companyMissionandPoliciesServiceWorkProduct",
+  "companyMissionandPoliciesServiceName" : "companyMissionandPoliciesServiceName",
+  "companyMissionandPoliciesPreconditions" : "companyMissionandPoliciesPreconditions",
+  "companyMissionandPoliciesServiceType" : "companyMissionandPoliciesServiceType",
+  "companyMissionandPoliciesServiceInputsandOuputs" : "companyMissionandPoliciesServiceInputsandOuputs",
+  "companyMissionandPoliciesServiceDescription" : "companyMissionandPoliciesServiceDescription",
+  "captureResponseRecord" : {},
+  "companyMissionandPoliciesVersionNumber" : "companyMissionandPoliciesVersionNumber"
+}

@@ -1,0 +1,15 @@
+{
+  "operationalandProductionProceduresandGuidelinesSpecificationSchedule" : "operationalandProductionProceduresandGuidelinesSpecificationSchedule",
+  "operationalandProductionProceduresandGuidelinesVersionNumber" : "operationalandProductionProceduresandGuidelinesVersionNumber",
+  "operationalandProductionProceduresandGuidelines" : "operationalandProductionProceduresandGuidelines",
+  "operationalandProductionProceduresandGuidelinesServiceType" : "operationalandProductionProceduresandGuidelinesServiceType",
+  "operationalandProductionProceduresandGuidelinesCaptureActionTaskReference" : "OAPPAGCATR709616",
+  "operationalandProductionProceduresandGuidelinesCaptureActionTaskRecord" : {},
+  "operationalandProductionProceduresandGuidelinesCaptureRecordReference" : "OAPPAGCRR760443",
+  "operationalandProductionProceduresandGuidelinesServiceDescription" : "operationalandProductionProceduresandGuidelinesServiceDescription",
+  "operationalandProductionProceduresandGuidelinesServiceInputsandOuputs" : "operationalandProductionProceduresandGuidelinesServiceInputsandOuputs",
+  "operationalandProductionProceduresandGuidelinesServiceName" : "operationalandProductionProceduresandGuidelinesServiceName",
+  "operationalandProductionProceduresandGuidelinesPreconditions" : "operationalandProductionProceduresandGuidelinesPreconditions",
+  "captureResponseRecord" : {},
+  "operationalandProductionProceduresandGuidelinesServiceWorkProduct" : "operationalandProductionProceduresandGuidelinesServiceWorkProduct"
+}

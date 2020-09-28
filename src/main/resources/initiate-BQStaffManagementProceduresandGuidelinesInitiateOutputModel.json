@@ -1,0 +1,15 @@
+{
+  "staffManagementProceduresandGuidelinesServiceInputsandOuputs" : "staffManagementProceduresandGuidelinesServiceInputsandOuputs",
+  "staffManagementProceduresandGuidelinesServiceName" : "staffManagementProceduresandGuidelinesServiceName",
+  "staffManagementProceduresandGuidelinesInstanceReference" : "SMPAGIR709369",
+  "staffManagementProceduresandGuidelinesInitiateActionReference" : "SMPAGIAR771481",
+  "staffManagementProceduresandGuidelinesInitiateActionRecord" : {},
+  "staffManagementProceduresandGuidelinesServiceDescription" : "staffManagementProceduresandGuidelinesServiceDescription",
+  "staffManagementProceduresandGuidelinesPreconditions" : "staffManagementProceduresandGuidelinesPreconditions",
+  "staffManagementProceduresandGuidelines" : "staffManagementProceduresandGuidelines",
+  "staffManagementProceduresandGuidelinesVersionNumber" : "staffManagementProceduresandGuidelinesVersionNumber",
+  "staffManagementProceduresandGuidelinesSpecificationSchedule" : "staffManagementProceduresandGuidelinesSpecificationSchedule",
+  "staffManagementProceduresandGuidelinesInstanceStatus" : "staffManagementProceduresandGuidelinesInstanceStatus",
+  "staffManagementProceduresandGuidelinesServiceType" : "staffManagementProceduresandGuidelinesServiceType",
+  "staffManagementProceduresandGuidelinesServiceWorkProduct" : "staffManagementProceduresandGuidelinesServiceWorkProduct"
+}

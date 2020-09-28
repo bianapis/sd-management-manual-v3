@@ -1,0 +1,26 @@
+{
+  "operationalandProductionProceduresandGuidelinesSpecificationSchedule" : "operationalandProductionProceduresandGuidelinesSpecificationSchedule",
+  "operationalandProductionProceduresandGuidelinesVersionNumber" : "operationalandProductionProceduresandGuidelinesVersionNumber",
+  "operationalandProductionProceduresandGuidelines" : "operationalandProductionProceduresandGuidelines",
+  "operationalandProductionProceduresandGuidelinesServiceType" : "operationalandProductionProceduresandGuidelinesServiceType",
+  "operationalandProductionProceduresandGuidelinesInstanceReport" : {
+    "operationalandProductionProceduresandGuidelinesInstanceReportType" : "operationalandProductionProceduresandGuidelinesInstanceReportType",
+    "operationalandProductionProceduresandGuidelinesInstanceReportParameters" : "operationalandProductionProceduresandGuidelinesInstanceReportParameters",
+    "operationalandProductionProceduresandGuidelinesInstanceReport" : {},
+    "operationalandProductionProceduresandGuidelinesInstanceReportRecord" : {}
+  },
+  "operationalandProductionProceduresandGuidelinesServiceDescription" : "operationalandProductionProceduresandGuidelinesServiceDescription",
+  "operationalandProductionProceduresandGuidelinesInstanceAnalysis" : {
+    "operationalandProductionProceduresandGuidelinesInstanceAnalysisRecord" : {},
+    "operationalandProductionProceduresandGuidelinesInstanceAnalysisParameters" : "operationalandProductionProceduresandGuidelinesInstanceAnalysisParameters",
+    "operationalandProductionProceduresandGuidelinesInstanceAnalysisReportType" : "operationalandProductionProceduresandGuidelinesInstanceAnalysisReportType",
+    "operationalandProductionProceduresandGuidelinesInstanceAnalysisReport" : {}
+  },
+  "operationalandProductionProceduresandGuidelinesServiceInputsandOuputs" : "operationalandProductionProceduresandGuidelinesServiceInputsandOuputs",
+  "operationalandProductionProceduresandGuidelinesRetrieveActionResponse" : "operationalandProductionProceduresandGuidelinesRetrieveActionResponse",
+  "operationalandProductionProceduresandGuidelinesRetrieveActionTaskReference" : "OAPPAGRATR707809",
+  "operationalandProductionProceduresandGuidelinesServiceName" : "operationalandProductionProceduresandGuidelinesServiceName",
+  "operationalandProductionProceduresandGuidelinesPreconditions" : "operationalandProductionProceduresandGuidelinesPreconditions",
+  "operationalandProductionProceduresandGuidelinesRetrieveActionTaskRecord" : {},
+  "operationalandProductionProceduresandGuidelinesServiceWorkProduct" : "operationalandProductionProceduresandGuidelinesServiceWorkProduct"
+}
